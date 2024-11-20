@@ -22,7 +22,8 @@ This is a **Personal Portfolio Website** project completed as part of my interns
 2. Open the `index.html` file in your preferred web browser.  
 
 ## **Screenshots**  
-(Add screenshots of your portfolio sections here to give visitors a visual overview of the website.)  
+!screenshot(https://github.com/user-attachments/assets/fcab3486-6833-4d6e-a249-3e78bf2f95ab)
+
 
 ## **Future Improvements**  
 - Implement dark/light mode for better accessibility.  
