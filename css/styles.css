@@ -770,7 +770,12 @@ nav {
     background-color: var(--clr-bg1);
     padding: 20px 20px;
     text-align: center;
-    margin-bottom: 0;.social-links {
+    margin-bottom: 0;
+}
+.footer{
+    color: var(--clr-design);
+}
+.social-links {
   margin-top: 2rem;
   text-align: center;
 }
@@ -786,8 +791,7 @@ nav {
   color: var(--clr-text1);
   transform: scale(1.2);
 }
-    font-size: large;
-}
+
 /*---------------------------- scroll bar ----------------------------*/
 body::-webkit-scrollbar{
     width: 10px;
