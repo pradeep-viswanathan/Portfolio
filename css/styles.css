@@ -948,3 +948,8 @@ body::-webkit-scrollbar-thumb:hover{
       right: 15px;
     }
   }
+@media (max-width: 768px) {
+    * {
+        transition: none; /* Disable transitions for smoother rendering */
+    }
+}
