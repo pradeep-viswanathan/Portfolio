@@ -70,18 +70,23 @@ p{
     margin-bottom: 1.75rem;
 }
 body{
-    overflow-x: hidden;
     font-family: var(--f-primary);
     font-size: 0.875rem;
     background-color: var(--clr-bg1);
     color: var(--clr-text2);
     line-height: 1.5;
 }
+html, body{
+    overflow-x: hidden;
+    padding: 0;
+    margin:0;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
     padding: 60px 20px;
     width:100%;
+    overflow: hidden;
 }
 /*------------------- nav-bar styling ---------------*/
 .navigation{
