@@ -420,7 +420,11 @@ nav {
     .about p{
         font-size: 0.75rem;
     }
-
+}
+@media (max-width:378px){
+    .about a{
+        margin-bottom: 20px;
+    }
 }
 
 /*---------------------- my journey -----------------------*/
